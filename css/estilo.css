@@ -30,24 +30,16 @@ body {
 	width: 920px;
 	margin: 0px auto;
 	padding: 15px;
-
 }
-
-
 
 #area-postagens {
 	width: 660px;
-	float: left;
-	
-	
-	
+	float: left;			
 }
 
 #area-lateral {
 	width: 240px;
 	float: right;
-	
-
 }
 
 .postagem {
@@ -85,8 +77,6 @@ a {
 
 a:link, a:visited {
 	color: #f7b600;
-	
-
 }
 
  a:hover {
@@ -96,7 +86,6 @@ a:link, a:visited {
 #area-cabecalho a:link, #area-cabecalho a:visited {
 	color: #fff;
 	padding: 8px 12px;
-
 }
 
 #area-cabecalho a:hover {
@@ -108,7 +97,6 @@ a:link, a:visited {
 /*
 **** Formatação em geral ****
 */
-
 h1 {
 	color: #4e4e4e;
 	font-size: 2.5em;
